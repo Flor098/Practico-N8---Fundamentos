@@ -12,4 +12,4 @@ Con tus propias palabras explica los siguientes conceptos.
 
 - Funcionamiento de forEach():Ejecuta alguna accion, una vez por elemento del arreglo
 
-- En que situacion usarias un filter? Cuando quiero "filtrar" ciertos elementos, con una condicion que yo ponga.Por ejemplo, que se cree un nuevo arreglo con las personas que tienen apellido empezado en "R
+- En  que situacion usarias un filter? Cuando quiero "filtrar" ciertos elementos, con una condicion que yo ponga.Por ejemplo, que se cree un nuevo arreglo con las personas que tienen apellido empezado en "R
