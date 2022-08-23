@@ -2,14 +2,14 @@ Con tus propias palabras explica los siguientes conceptos.
 
 
 
-- Callbacks
+- Callbacks: Es una funcion, que se le puede pasar a otra funcion como argumento, y se ejecuta despues de que se haya completado alguna operacion
 
-- Funcionamiento de Map()
+- Funcionamiento de Map():Crea un nuevo arreglo, con los resultados de una funcion
 
-- Funcionamiento de Reduce()
+- Funcionamiento de Reduce():reduce un arreglo a un solo valor
 
-- Funcionamiento de Filter()
+- Funcionamiento de Filter():Crea un nuevo arreglo, con los elementos que cumplan una condicion determinada.
 
-- Funcionamiento de forEach()
+- Funcionamiento de forEach():Ejecuta alguna accion, una vez por elemento del arreglo
 
-- En que situacion usarias un filter?
+- En que situacion usarias un filter? Cuando quiero "filtrar" ciertos elementos, con una condicion que yo ponga.Por ejemplo, que se cree un nuevo arreglo con las personas que tienen apellido empezado en "R
